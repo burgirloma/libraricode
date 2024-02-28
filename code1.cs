@@ -21,7 +21,7 @@ using Nuke.Common.Tooling;
             notes,
             rawVersionLine)
     {
-    }
+    }//hello
   public ReleaseNotes(Version version, IEnumerable<string> notes, string rawVersionLine)
         : this(
             version ?? throw new ArgumentNullException(nameof(version)),
