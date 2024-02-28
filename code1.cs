@@ -8,7 +8,7 @@ public class Configuration : Enumeration
     {
         return configuration.Value;
     }
-}
+}//tell em to bring out the lobster
 using System;
 using System.ComponentModel;
 using System.Linq;
